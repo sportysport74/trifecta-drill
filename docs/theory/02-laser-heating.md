@@ -539,4 +539,4 @@ MPE_445nm ≈ 0.025 W/cm² for brief exposure
 
 **Acoustic softens → Laser heats → Plasma cuts**
 
-**Pure synergy!** 🔥
+**Pure synergy!** 🔥 
