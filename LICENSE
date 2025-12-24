@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2025 Sportysport
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL TERMS FOR SAFETY-CRITICAL APPLICATIONS:
+
+This project involves high-power lasers, ultrasonics, and plasma systems that
+can cause serious injury or death if misused. By using this software and
+hardware designs, you agree to:
+
+1. Follow all safety guidelines in docs/design/safety-analysis.md
+2. Comply with all local laws and regulations
+3. Assume full responsibility for safe construction and operation
+4. Not hold the author liable for any injuries, damages, or losses
+
+THE AUTHOR PROVIDES NO WARRANTY OF SAFETY, SUITABILITY, OR FITNESS FOR ANY
+PARTICULAR PURPOSE. BUILD AND OPERATE AT YOUR OWN RISK.
+
+If you are uncertain about any aspect of this system's safety, DO NOT BUILD IT.
+Consult qualified professionals before proceeding.
